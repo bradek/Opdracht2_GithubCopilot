@@ -1,0 +1,74 @@
+body.fantasy {
+    background-color: #3c1f41c9;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+
+.fantasy-text {
+    color: #dcdcdc;
+    font-family: 'Goudy Old Style', serif;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.fantasy-image {
+    border: 10px solid #dcdcdc;
+    box-shadow: 0px 0px 20px #dcdcdc;
+}
+
+.fantasy-form {
+    background-color: #3c1f41;
+    border: 2px solid #dcdcdc;
+    padding: 20px;
+}
+
+.fantasy-input {
+    background-color: #dcdcdc;
+    border: none;
+    border-radius: 5px;
+    color: #3c1f41;
+    font-family: 'Goudy Old Style', serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.fantasy-heading {
+    color: #dcdcdc;
+    font-family: 'Goudy Old Style', serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px #3c1f41;
+}
+/*Make the next and previous spans less wide.*/
+.carousel-control-next, .carousel-control-prev {
+    background-color: black;
+    width: 5%!important;
+}
+
+.fantasy-nav {
+    background-color: #3c1f41;
+    border: 2px solid #dcdcdc;
+    padding: 20px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.fantasy-nav a{
+    color: #dcdcdc;
+    font-family: 'Goudy Old Style', serif;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 24px;
+}
+
+.fantasy-nav a:hover{
+    color: #783085;
+}
+
+.fantasy-line{
+    border-bottom: 1px dotted #dcdcdc;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
